@@ -1,0 +1,3 @@
+[submodule "themes/fortyone"]
+	path = themes/fortyone
+	url = https://github.com/harititan/fortyone.git
