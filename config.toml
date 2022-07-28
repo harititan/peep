@@ -78,9 +78,9 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Join our Mission:"
-    subtitle = "To maximize educational opportunities that best prepare high school graduates for success in future academic or vocational programs, subject to the contraints of school district budgets and contractual agreements with local unions."
-    buttonText = "Signup"
+    title = "Return to Excellence:"
+    subtitle = "To maximize educational opportunities that best prepare high school graduates for success in future academic or vocational programs, subject to the contraints of school district budgets and contractual agreements.  We are Piedmonters who are continually striving for academic excellence on par with the finest schools in the Bay Area."
+    buttonText = "Join our Mission"
     url = "https://docs.google.com/forms/d/1ZyCV3GPZcpFEl358rIU9WYL8WZyWwZKdcTdVvxLuVjc/edit"
 
 
