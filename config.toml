@@ -70,7 +70,7 @@ disqusShortname = ""
     # Button Style 1
     [[params.navigation.button1]]
       name = "Signup"
-      url = "https://docs.google.com/forms/d/12DxD1Cb9urpHC6LFK4ArmorvEPlu0CoePFoNIxZ5QUY/edit"
+      url = "https://docs.google.com/forms/d/1ZyCV3GPZcpFEl358rIU9WYL8WZyWwZKdcTdVvxLuVjc/edit"
 
 
 
@@ -81,7 +81,7 @@ disqusShortname = ""
     title = "Join our Mission:"
     subtitle = "To maximize educational opportunities that best prepare high school graduates for success in future academic or vocational programs, subject to the contraints of school district budgets and contractual agreements with local unions."
     buttonText = "Signup"
-    url = "https://docs.google.com/forms/d/12DxD1Cb9urpHC6LFK4ArmorvEPlu0CoePFoNIxZ5QUY/edit"
+    url = "https://docs.google.com/forms/d/1ZyCV3GPZcpFEl358rIU9WYL8WZyWwZKdcTdVvxLuVjc/edit"
 
 
   # Tiles Section
@@ -142,7 +142,7 @@ disqusShortname = ""
     excellence within the Piedmont Unified School District.  To further this objective, as a secondary goal PEEP
     will be involved in recruiting and evaluating candidates who run for school board.  Tell us about your vast
     talents and join our board of directors."""
-    buttonText = "Signup"
+    buttonText = "Nominate Yourself"
     url = "https://docs.google.com/forms/d/12DxD1Cb9urpHC6LFK4ArmorvEPlu0CoePFoNIxZ5QUY/edit"
 
 
