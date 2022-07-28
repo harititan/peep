@@ -168,19 +168,7 @@ disqusShortname = ""
     # Contact Section
     # You can add multiple emails, phone numbers, or addresses
     # by copying the corresponding map with frontmatter code.
-    [[params.contact.email]]
-    title = "Email"
-    email = "ExcellencePUSD@gmail.com"
 
-    [[params.contact.phone]]
-    title = "Phone"
-    phone = "(510) 984-4674"
-
-    [[params.contact.address]]
-    title = "Physical Address"
-    street = "125 Saint James Drive"
-    city = "Piedmont, CA 94611"
-    country = "USA"
 
   # Footer section
   [params.footer]
