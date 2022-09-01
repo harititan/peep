@@ -59,6 +59,9 @@ disqusShortname = ""
       name = "College Matriculation"
       url = "https://harititan.com/article/matriculation-counts"
 
+    [[params.navigation.links]]
+      name = "Donate to support PEEP"
+      url = "https://www.paypal.com/donate/?hosted_button_id=ZWQ6MRRWALRXQ"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -69,19 +72,20 @@ disqusShortname = ""
 
     # Button Style 1
     [[params.navigation.button1]]
-      name = "Signup"
+      name = "Become a member"
       url = "https://docs.google.com/forms/d/1ZyCV3GPZcpFEl358rIU9WYL8WZyWwZKdcTdVvxLuVjc/edit"
-
 
 
   # Banner section
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.webp' in
     # the 'static/img' folder.
-    title = "Return to Excellence:"
-    subtitle = "To maximize educational opportunities that best prepare high school graduates for success in future academic or vocational programs, subject to the contraints of school district budgets and contractual agreements.  We are Piedmonters who are continually striving for academic excellence on par with the finest schools in the Bay Area."
-    buttonText = "Join our Mission"
-    url = "https://docs.google.com/forms/d/1ZyCV3GPZcpFEl358rIU9WYL8WZyWwZKdcTdVvxLuVjc/edit"
+    title = "PEEP School Board Candidate Forum:"
+    subtitle = "All candidates running in the 2022 election for a seat on the school board 
+    have accepted an invitation to attend this event.  The forum will be held in the PHS Library
+    on September 22nd from 4:30 PM to 6:30 PM.  Please arrive early."
+    buttonText = "Pre-register for free"
+    url = "https://docs.google.com/forms/d/1EqrCdvsi629MPe1MsZF8t2ZkHjdpArVtUDKaL4G8zQc/edit"
 
 
   # Tiles Section
@@ -145,11 +149,12 @@ disqusShortname = ""
     title = "About Us"
     subtitle = """Parents for Educational Excellence in Piedmont, aka PEEP, is a 501(c)(4) nonprofit corporation
     organized for charitable, educational, and scientific purposes to examine and promote educational
-    excellence within the Piedmont Unified School District.  To further this objective, as a secondary goal PEEP
-    will be involved in recruiting and evaluating candidates who run for school board.  Tell us about your vast
-    talents and join our board of directors."""
-    buttonText = "Nominate Yourself"
-    url = "https://docs.google.com/forms/d/12DxD1Cb9urpHC6LFK4ArmorvEPlu0CoePFoNIxZ5QUY/edit"
+    excellence within the Piedmont Unified School District.  To maximize educational opportunities that best 
+    prepare high school graduates for success in future academic or vocational programs, subject to the contraints 
+    of school district budgets and contractual agreements.  We are Piedmonters who are continually striving for 
+    academic excellence on par with the finest schools in the Bay Area."""
+    buttonText = "Join our Mission"
+    url = "https://docs.google.com/forms/d/1ZyCV3GPZcpFEl358rIU9WYL8WZyWwZKdcTdVvxLuVjc/edit"
 
 
   # Contact section
