@@ -81,8 +81,8 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.webp' in
     # the 'static/img' folder.
     title = "PEEP School Board Candidate Forum"
-    subtitle = "All candidates running in the 2022 election for a seat on the school board have accepted an invitation to attend this event.  The forum will be held in the PHS Ambassador Chris Stevens Library on September 22nd from 4:30 PM to 6:30 PM.  Please pre-register and arrive early."
-    buttonText = "Pre-Register for free"
+    subtitle = "All candidates running in the 2022 election for a seat on the school board have accepted an invitation to attend this event.  The forum will be held in the PHS Ambassador Chris Stevens Library on September 22nd from 4:30 PM to 6:30 PM.  Please pre-register (so we can ask for a larger venue if needed) and arrive early."
+    buttonText = "Register for free"
     url = "https://docs.google.com/forms/d/1EqrCdvsi629MPe1MsZF8t2ZkHjdpArVtUDKaL4G8zQc/edit"
 
 
@@ -93,14 +93,14 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Best Practices"
-      subtitle = "Top management should be subject matter experts who help discover the best path forward after independent research and study.  Batteries included. Candidates for office should not have hidden agendas."
+      subtitle = "Top management should be subject matter experts who help discover the best path forward after independent research and study of the issues before them.  Batteries included.  Rubber stamping or kicking cans down the road not required."
       image = "pic01.jpg"
       imagew = "pic01.webp"
       url = "https://docs.google.com/forms/d/12DxD1Cb9urpHC6LFK4ArmorvEPlu0CoePFoNIxZ5QUY/edit"
 
     [[params.tiles.showcase]]
       title = "Standardized Test Results"
-      subtitle = "A key differentiator for Piedmont schools are strong CAASPP and CAST test scores.  How are those results tracking year over year and grade after grade?  How well are similar school districts performing."
+      subtitle = "A key differentiator for Piedmont schools are strong CAASPP and CAST test scores.  How are those results tracking year over year and grade after grade?  How well are similar school districts performing?"
       image = "pic02.jpg"
       imagew = "pic02.webp"
       url = "/attachments/"
@@ -114,7 +114,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Transparency"
-      subtitle = "Open government legislation helps but is not enough.  It is still very hard to find out all the pros and cons of any decision already made or being considered.  See Best Practices."
+      subtitle = "Open government legislation helps but is not enough.  It is still very hard to find out all the pros and cons of any decision already made or being considered.  Candidates for office should not have hidden agendas."
       image = "pic04.jpg"
       imagew = "pic04.webp"
       url = "https://harititan.com/Transparency_Lost.webp"
@@ -128,7 +128,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "In-person Instruction"
-      subtitle = "K-12 students need supervision prior to development of independent learning skills.  Pandemic responses should be managed by epidemiologists at the county and state levels, not at each school district."
+      subtitle = "K-12 students need supervision prior to development of independent learning skills.  Pandemic responses should be managed by epidemiologists at the county and state levels, not at each individual school district."
       image = "pic06.jpg"
       imagew = "pic06.webp"
       url = "https://harititan.com/article/epidemiologists-should-lead-way"
@@ -149,7 +149,7 @@ disqusShortname = ""
     organized for charitable, educational, and scientific purposes to examine and promote educational
     excellence within the Piedmont Unified School District.  To maximize educational opportunities that best 
     prepare high school graduates for success in future academic or vocational programs, subject to the contraints 
-    of school district budgets and contractual agreements.  We are Piedmonters who are continually striving for 
+    of school district budgets and contractual agreements.  We are continually striving for 
     academic excellence on par with the finest schools in the Bay Area."""
     buttonText = "Join our Mission"
     url = "https://docs.google.com/forms/d/1ZyCV3GPZcpFEl358rIU9WYL8WZyWwZKdcTdVvxLuVjc/edit"
@@ -182,4 +182,4 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Parents for Educational Excellence in Piedmont (FEIN: 85-3820446), Piedmont, California, 94611"
+    copyright = "Parents for Educational Excellence in Piedmont (Est. 2020, FEIN: 85-3820446), Piedmont, California, 94611"
