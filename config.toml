@@ -81,7 +81,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.webp' in
     # the 'static/img' folder.
     title = "PEEP School Board Candidate Forum"
-    subtitle = "All candidates running in the 2022 election for a seat on the school board have accepted an invitation to attend this event.  The forum will be held in the PHS Ambassador Chris Stevens Library on September 22nd from 4:30 PM to 6:30 PM.  Please pre-register (so we can ask for a larger venue if needed) and arrive early."
+    subtitle = "All candidates running in the 2022 election for a seat on the school board have accepted an invitation to attend this event.  The forum will be held in the PHS Ambassador Chris Stevens Library on September 22nd from 4:30 PM to 6:30 PM.  Please pre-register (so we can ask for a larger venue if needed) and arrive early.  Registered attendees qualify for raffle prizes."
     buttonText = "Register for free"
     url = "https://docs.google.com/forms/d/1EqrCdvsi629MPe1MsZF8t2ZkHjdpArVtUDKaL4G8zQc/edit"
 
