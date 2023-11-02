@@ -65,7 +65,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "Donate to support PEEP"
-      url = "https://www.paypal.com/donate/?hosted_button_id=ZWQ6MRRWALRXQ"
+      url = "https://www.paypal.com/donate/?hosted_button_id=ZRFEWY7ZDSDF4"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -84,10 +84,10 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.webp' in
     # the 'static/img' folder.
-    title = "PEEP School Board Candidate Forum"
-    subtitle = "All candidates running in the 2022 election for a seat on the school board have accepted an invitation to attend this event.  The forum will be held in the PHS Ambassador Chris Stevens Library on September 22nd from 4:30 PM to 6:30 PM.  Please pre-register (so we can ask for a larger venue if needed) and arrive early.  Registered attendees qualify for raffle prizes."
-    buttonText = "Register for free"
-    url = "https://docs.google.com/forms/d/1EqrCdvsi629MPe1MsZF8t2ZkHjdpArVtUDKaL4G8zQc/edit"
+    title = "Donate to your school district"
+    subtitle = "Earmark your donation to PEEP for re-donation to PUSD. No salary deducted, only bank fees. Easier than writing checks."
+    buttonText = "PayPal"
+    url = "https://www.paypal.com/donate/?hosted_button_id=ZRFEWY7ZDSDF4"
 
 
   # Tiles Section
@@ -97,7 +97,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Best Practices"
-      subtitle = "Top management should be subject matter experts who help discover the best path forward after independent research and study of the issues before them.  Batteries included.  Rubber stamping or kicking cans down the road not required."
+      subtitle = "Board members, speakers, and top managers should be subject matter experts who collectively help discover the best path forward after careful independent research and study.  Rubber stamping, hidden agendas, or kicking cans down the road is not acceptable."
       image = "pic01.jpg"
       imagew = "pic01.webp"
       url = "https://docs.google.com/forms/d/12DxD1Cb9urpHC6LFK4ArmorvEPlu0CoePFoNIxZ5QUY/edit"
@@ -152,11 +152,10 @@ disqusShortname = ""
     subtitle = """Parents for Educational Excellence in Piedmont, aka PEEP, is a 501(c)(4) nonprofit corporation
     organized for charitable, educational, and scientific purposes to examine and promote educational
     excellence within the Piedmont Unified School District.  To maximize educational opportunities that best 
-    prepare high school graduates for success in future academic or vocational programs, subject to the contraints 
-    of school district budgets and contractual agreements.  We are continually striving for 
-    academic excellence on par with the finest schools in the Bay Area."""
+    prepare high school graduates for success in post-secondary studies, subject to the contraints 
+    of school district budgets and contractual agreements with teachers and staff."""
     buttonText = "Join our Mission"
-    url = "https://www.paypal.com/donate/?hosted_button_id=ZWQ6MRRWALRXQ"
+    url = "https://docs.google.com/forms/d/1ZyCV3GPZcpFEl358rIU9WYL8WZyWwZKdcTdVvxLuVjc/edit"
 
 
   # Contact section
@@ -169,18 +168,6 @@ disqusShortname = ""
     # proxy. The form makes a POST request to their servers to send the actual
     # email. Visitors can send up to a 1000 emails each month for free.
     #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below and uncomment
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
-    # formEmail = "example@domain.com"
-
-    # Contact Section
-    # You can add multiple emails, phone numbers, or addresses
-    # by copying the corresponding map with frontmatter code.
 
 
   # Footer section
