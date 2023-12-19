@@ -101,28 +101,28 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Best Practices"
-      subtitle = "Board members, educational speakers, top administrators, and teachers should be educational subject matter experts (SMEs) who discover the best path forward after careful independent research and study.  Rubber stamping hidden agendas, or kicking cans down the road is not the path to excellence."
+      subtitle = "Board members, educational speakers, top administrators, and teachers should be subject matter experts (SMEs) who discover the best path forward after careful independent research and study.  Rubber stamping hidden agendas, or kicking cans down the road is not the path to excellence."
       image = "pic01.jpg"
       imagew = "pic01.webp"
       url = "https://docs.google.com/forms/d/12DxD1Cb9urpHC6LFK4ArmorvEPlu0CoePFoNIxZ5QUY/edit"
 
     [[params.tiles.showcase]]
       title = "Standardized Test Results"
-      subtitle = "A key differentiator for Piedmont schools are strong CAASPP and CAST test scores.  How are those results tracking year over year and grade after grade?  How well are similar school districts performing?"
+      subtitle = "Piedmont schools have consistently had very strong CAASPP and CAST test performance year over year.  PEEP reports track results over time and dive deep into subject areas by grade level, sex, race, economic disadvantage, and parents educational level. Using race data in isolation can be misleading."
       image = "pic02.jpg"
       imagew = "pic02.webp"
       url = "/attachments/"
 
     [[params.tiles.showcase]]
       title = "University and College Matriculation"
-      subtitle = "Piedmont High utilizes a service to track graduate performance at the top 25 universities and colleges that are often considered 'reach' schools by applicants. PUSD graduate attendance at these schools has been steadily declining over the past decade."
+      subtitle = "PUSD quietly tracks admission acceptances (a.k.a. "matriculations"), as does the Piedmont Post. Pre-Pandemic, matriculations to what many would consider 'reach' schools were declining for over a decade while CAASPP performance remained steady and outstanding.  Recently those matriculations have increased."
       image = "pic03.jpg"
       imagew = "pic03.webp"
       url = "https://harititan.com/article/matriculation-counts"
 
     [[params.tiles.showcase]]
       title = "Transparency"
-      subtitle = "Open government legislation helps but is not enough.  It is still very hard to find out all the pros and cons of any decision already made or being considered.  Candidates for office should not have hidden agendas."
+      subtitle = "Open government legislation helps but is not enough. It is still very hard to find the pros and cons of any decision already made or being considered. Candidates for office should not have unvetted or hidden agendas."
       image = "pic04.jpg"
       imagew = "pic04.webp"
       url = "https://harititan.com/Transparency_Lost.webp"
