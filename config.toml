@@ -84,7 +84,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.webp' in
     # the 'static/img' folder.
-    title = "About Us"
+    title = "About PEEP"
     subtitle = """Parents for Educational Excellence in Piedmont, aka PEEP, is a 501(c)(4) nonprofit corporation
     organized for charitable, educational, and scientific purposes to examine and promote educational
     excellence within the Piedmont Unified School District.  To maximize educational opportunities that best 
