@@ -101,7 +101,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Best Practices"
-      subtitle = "Board members, speakers, and top managers should be subject matter experts who collectively help discover the best path forward after careful independent research and study.  Rubber stamping, hidden agendas, or kicking cans down the road is not acceptable."
+      subtitle = "Board members, public speakers, and top administrators should be subject matter experts (SMEs) who collectively help discover the best path forward after careful independent research and study.  Rubber stamping hidden agendas, or kicking cans down the road is not the path to excellence."
       image = "pic01.jpg"
       imagew = "pic01.webp"
       url = "https://docs.google.com/forms/d/12DxD1Cb9urpHC6LFK4ArmorvEPlu0CoePFoNIxZ5QUY/edit"
@@ -153,7 +153,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "Donate to your school district"
-    subtitle = "Earmark your donation to PEEP for re-donation to PUSD. No salary deducted, only bank fees. Easier than writing checks."
+    subtitle = "Donate directly to the Piedmont Unified School District. No fundraiser salaries deducted, only bank fees. Easier than writing checks."
     buttonText = "InfiniteCampus.org"
     url = "https://piedmontca.infinitecampus.org/campus/store/piedmont/school-store/8/products(secondaryRouteOutlet:product-view/230)"
 
