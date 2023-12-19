@@ -89,7 +89,7 @@ disqusShortname = ""
     organized for charitable, educational, and scientific purposes to examine and promote educational
     excellence within the Piedmont Unified School District.  To maximize educational opportunities that best 
     prepare high school graduates for success in post-secondary studies, subject to the contraints 
-    of school district budgets and contractual agreements with teachers and staff."""
+    of school district budgets, lawful mandates, and contractual agreements with teachers and staff."""
     buttonText = "Join our Mission"
     url = "https://docs.google.com/forms/d/1ZyCV3GPZcpFEl358rIU9WYL8WZyWwZKdcTdVvxLuVjc/edit"
 
@@ -101,7 +101,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Best Practices"
-      subtitle = "Board members, public speakers, and top administrators should be subject matter experts (SMEs) who collectively help discover the best path forward after careful independent research and study.  Rubber stamping hidden agendas, or kicking cans down the road is not the path to excellence."
+      subtitle = "Board members, educational speakers, top administrators, and teachers should be educational subject matter experts (SMEs) who discover the best path forward after careful independent research and study.  Rubber stamping hidden agendas, or kicking cans down the road is not the path to excellence."
       image = "pic01.jpg"
       imagew = "pic01.webp"
       url = "https://docs.google.com/forms/d/12DxD1Cb9urpHC6LFK4ArmorvEPlu0CoePFoNIxZ5QUY/edit"
