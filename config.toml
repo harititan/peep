@@ -64,7 +64,7 @@ disqusShortname = ""
       url = "https://harititan.com/article/matriculation-counts"
 
     [[params.navigation.links]]
-      name = "Donate to support PEEP"
+      name = "Donate to PEEP via PayPal"
       url = "https://www.paypal.com/donate/?hosted_button_id=ZRFEWY7ZDSDF4"
 
     # Add custom links here by uncommenting code below. To remove links just delete
@@ -84,10 +84,14 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.webp' in
     # the 'static/img' folder.
-    title = "Donate to your school district"
-    subtitle = "Earmark your donation to PEEP for re-donation to PUSD. No salary deducted, only bank fees. Easier than writing checks."
-    buttonText = "PayPal"
-    url = "https://www.paypal.com/donate/?hosted_button_id=ZRFEWY7ZDSDF4"
+    title = "About Us"
+    subtitle = """Parents for Educational Excellence in Piedmont, aka PEEP, is a 501(c)(4) nonprofit corporation
+    organized for charitable, educational, and scientific purposes to examine and promote educational
+    excellence within the Piedmont Unified School District.  To maximize educational opportunities that best 
+    prepare high school graduates for success in post-secondary studies, subject to the contraints 
+    of school district budgets and contractual agreements with teachers and staff."""
+    buttonText = "Join our Mission"
+    url = "https://docs.google.com/forms/d/1ZyCV3GPZcpFEl358rIU9WYL8WZyWwZKdcTdVvxLuVjc/edit"
 
 
   # Tiles Section
@@ -148,15 +152,10 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "About Us"
-    subtitle = """Parents for Educational Excellence in Piedmont, aka PEEP, is a 501(c)(4) nonprofit corporation
-    organized for charitable, educational, and scientific purposes to examine and promote educational
-    excellence within the Piedmont Unified School District.  To maximize educational opportunities that best 
-    prepare high school graduates for success in post-secondary studies, subject to the contraints 
-    of school district budgets and contractual agreements with teachers and staff."""
-    buttonText = "Join our Mission"
-    url = "https://docs.google.com/forms/d/1ZyCV3GPZcpFEl358rIU9WYL8WZyWwZKdcTdVvxLuVjc/edit"
-
+    title = "Donate to your school district"
+    subtitle = "Earmark your donation to PEEP for re-donation to PUSD. No salary deducted, only bank fees. Easier than writing checks."
+    buttonText = "InfiniteCampus.org"
+    url = "https://piedmontca.infinitecampus.org/campus/store/piedmont/school-store/8/products(secondaryRouteOutlet:product-view/230)"
 
   # Contact section
   [params.contact]
