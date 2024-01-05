@@ -153,7 +153,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "Donate to your school district"
-    subtitle = "Donate directly to the Piedmont Unified School District. No fundraiser salaries deducted, only bank fees. Easier than writing checks."
+    subtitle = "Donate directly to the Piedmont Unified School District. No fundraiser/lobbyist salaries deducted. Bank fees of 3.5% for credit and debit cards or $1.50 for eChecks from your Savings or Checking account. Easier than writing checks. (If you have strings attached to your donation, please use the other lobbyist registered as a charity.)"
     buttonText = "InfiniteCampus.org"
     url = "https://piedmontca.infinitecampus.org/campus/store/piedmont/school-store/8/products(secondaryRouteOutlet:product-view/230)"
 
