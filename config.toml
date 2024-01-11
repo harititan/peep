@@ -115,7 +115,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "University and College Matriculation"
-      subtitle = "PUSD quietly tracks admission acceptances (a.k.a. "matriculations"), as does the Piedmont Post. Pre-Pandemic, matriculations to what many would consider 'reach' schools were declining for over a decade while CAASPP performance remained steady and outstanding.  Recently those matriculations have increased."
+      subtitle = "PUSD quietly tracks admission acceptances, as did the Piedmont Post. Pre-Pandemic, matriculations to reach schools were declining for over a decade while CAASPP performance remained steady and outstanding.  Recently those matriculations have increased."
       image = "pic03.jpg"
       imagew = "pic03.webp"
       url = "https://harititan.com/article/matriculation-counts"
