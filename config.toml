@@ -101,7 +101,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Best Practices"
-      subtitle = "Board members, educational speakers, top administrators, and teachers should be subject matter experts (SMEs) who discover the best path forward after careful independent research and study. Candidates for office should not have unvetted or hidden agendas."
+      subtitle = "Board members, educational speakers, top administrators, and teachers should be subject matter experts (SMEs) with a documented record of independent thinking and academic oversight. Candidates for office should not have unvetted or hidden agendas."
       image = "pic01.jpg"
       imagew = "pic01.webp"
       url = "https://docs.google.com/forms/d/12DxD1Cb9urpHC6LFK4ArmorvEPlu0CoePFoNIxZ5QUY/edit"
@@ -153,7 +153,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "Donate to your school district"
-    subtitle = "Donate directly to the Piedmont Unified School District. No fundraiser/lobbyist salaries deducted. Bank fees of 3.5% for credit and debit cards or $1.50 for eChecks from your Savings or Checking account. Easier than writing checks.  Money goes to highest needs.  If you have strings attached to your donation, please use the lobbyist registered as a 501(c)(3) charity."
+    subtitle = "Donate directly to the Piedmont Unified School District. No fundraiser/lobbyist salaries deducted. Transaction fees of 3.5% for credit and debit cards or $1.50 for eChecks from your Savings or Checking account. Money goes to highest needs. If you have strings attached to your donation, please use the lobbyist/PAC registered as a 501(c)(3) charity."
     buttonText = "InfiniteCampus.org"
     url = "https://piedmontca.infinitecampus.org/campus/store/piedmont/school-store/8/products(secondaryRouteOutlet:product-view/230)"
 
