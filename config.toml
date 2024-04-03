@@ -1,14 +1,17 @@
 # Site settings
-baseURL = "https://edexcellencepiedmont.com"
+baseURL = "https://EdExcellencePiedmont.com"
 languageCode = "en-us"
 title = "PEEP"
 theme = "fortyone"
-
+  
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
 # Enter your disqus shortname to enable comments
 disqusShortname = ""
+
+[permalinks]
+  encode = "!()"  
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source)
@@ -155,7 +158,7 @@ disqusShortname = ""
     title = "Donate to your school district"
     subtitle = "Donate directly to the Piedmont Unified School District. No fundraiser/lobbyist salaries deducted. Transaction fees of 3.5% for credit and debit cards or $1.50 for eChecks from your Savings or Checking account. Money goes to highest needs. If you have strings attached to your donation, please use the lobbyist/PAC registered as a 501(c)(3) charity."
     buttonText = "InfiniteCampus.org"
-    url = "https://piedmontca.infinitecampus.org/campus/store/piedmont/school-store/8/products(secondaryRouteOutlet:product-view/230)"
+    url = 'https://piedmontca.infinitecampus.org/campus/store/piedmont/school-store/8/products(secondaryRouteOutlet:product-view/230)'
 
   # Contact section
   [params.contact]
