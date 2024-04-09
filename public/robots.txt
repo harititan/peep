@@ -23,8 +23,6 @@ Disallow: /sass/
 # PDF Files
 Disallow: /*.pdf
 Disallow: /*.PDF
-Disallow: /attachment.files/*.pdf
-Disallow: /attachment.files/*.PDF
 # Development
 Disallow: /CHANGELOG.txt
 Disallow: /cron.php
