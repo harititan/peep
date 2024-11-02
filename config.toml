@@ -59,8 +59,8 @@ canonifyURLs = false
       url = "PEEP_Board.pdf"
 
     [[params.navigation.links]]
-      name = "Best Practices"
-      url = "https://docs.google.com/forms/d/12DxD1Cb9urpHC6LFK4ArmorvEPlu0CoePFoNIxZ5QUY/edit"
+      name = "Annual Board Presentation (most recent)"
+      url = "PEEP_Board_Meeting_4_2_24.pdf"
 
     [[params.navigation.links]]
       name = "CAASPP / CAST test results"
