@@ -21,7 +21,7 @@ Disallow: /fonts/
 Disallow: /js/
 Disallow: /sass/
 # PDF Files
-Disallow: /*.pdf
+Disallow: /PEEP_Board.pdf
 Disallow: /*.PDF
 # Development
 Disallow: /CHANGELOG.txt
