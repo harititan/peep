@@ -3,7 +3,7 @@ baseURL = "https://EdExcellencePiedmont.com"
 languageCode = "en-us"
 title = "PEEP"
 theme = "fortyone"
-  
+
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
@@ -13,7 +13,7 @@ disqusShortname = ""
 canonifyURLs = false
 
 [permalinks]
-  encode = "!()"  
+  encode = "!()"
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source)
@@ -94,8 +94,8 @@ canonifyURLs = false
     title = "About PEEP"
     subtitle = """Parents for Educational Excellence in Piedmont, aka PEEP, is a 501(c)(4) nonprofit corporation
     organized for charitable, educational, and scientific purposes to examine and promote educational
-    excellence within the Piedmont Unified School District.  To maximize educational opportunities that best 
-    prepare high school graduates for success in post-secondary studies, subject to the contraints 
+    excellence within the Piedmont Unified School District.  To maximize educational opportunities that best
+    prepare high school graduates for success in post-secondary studies, subject to the contraints
     of school district budgets, lawful mandates, and contractual agreements with teachers and staff."""
     buttonText = "Join our Mission"
     url = "https://docs.google.com/forms/d/1ZyCV3GPZcpFEl358rIU9WYL8WZyWwZKdcTdVvxLuVjc/edit"
@@ -179,4 +179,4 @@ canonifyURLs = false
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Parents for Educational Excellence in Piedmont (Est. 2020, FEIN: 85-3820446), Piedmont, California, 94611"
+    copyright = "2024 Parents for Educational Excellence in Piedmont (Est. 2020, FEIN: 85-3820446), Piedmont, California, 94611"
